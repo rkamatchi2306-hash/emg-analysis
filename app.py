@@ -3,8 +3,6 @@ import paho.mqtt.client as mqtt
 import pandas as pd
 import numpy as np
 import json
-from collections import deque
-
 st.set_page_config(
     page_title="Live EMG Monitor",
     page_icon="📈",
