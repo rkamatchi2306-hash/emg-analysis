@@ -1,4 +1,3 @@
-
 import streamlit as st
 import serial
 import serial.tools.list_ports
