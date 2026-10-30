@@ -1,5 +1,4 @@
 import streamlit as st
-import serial
 import serial.tools.list_ports
 import numpy as np
 import pandas as pd
